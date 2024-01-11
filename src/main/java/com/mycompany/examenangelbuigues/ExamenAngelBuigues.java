@@ -17,6 +17,7 @@ public class ExamenAngelBuigues {
         double numero1 = 56;
         double numero2 = 25;
         String cadena = "Hola";
+        double numero2222222222222 = 25;
         int numero4 = 4;
         char numero5 = 5;
         Scanner sc = new Scanner(System.in);
